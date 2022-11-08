@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PortalOn
+  - Spikes
+  - PauseMenu
+  - SettingsMenu
+  - PortalOff
+  - Score
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 941334931
+    locked: 0
+  - name: Tiles
+    uniqueID: 2132892625
+    locked: 0
+  - name: Plants
+    uniqueID: 2761029967
+    locked: 0
+  - name: Portal
+    uniqueID: 2041855483
+    locked: 0
+  - name: Stones
+    uniqueID: 285891099
+    locked: 0
+  - name: Spikes
+    uniqueID: 565132007
+    locked: 0
+  - name: Platform
+    uniqueID: 4001968805
+    locked: 0
+  - name: Player
+    uniqueID: 86473955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
